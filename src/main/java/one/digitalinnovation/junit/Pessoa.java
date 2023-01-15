@@ -4,9 +4,8 @@ import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 
 public class Pessoa {
-    public static void main(String[] args) {
 
-    }
+    public static void main(String[] args) {}
 
     private String nome;
     private LocalDate nascimento;
