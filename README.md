@@ -1,6 +1,6 @@
 # Testes Unitários
 
-Exemplos e exercícios de testes unitários realizados durante o curso **"Testes Unitários com JUnit"**, realizado pela plataforma **DIO**, ministrado pelo professor **Wyllian Guimarães Caetano**.
+Exemplos e exercícios de testes unitários praticados durante o curso **"Testes Unitários com JUnit"**, ministrado pelo professor **Willyan Guimarães Caetano** e realizado pela plataforma **DIO**.
 
 Esse curso faz parte do bootcamp **GFT - Quality Assurance para Mulheres**.
 
